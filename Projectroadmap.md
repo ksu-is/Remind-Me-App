@@ -5,4 +5,3 @@
 5. We were attempting to have visuals of actual hands doing rock paper scissors, but we struggled with how to implement that. DONE
 6. Looked up some different code versions of rock paper scissors. Trying to work our way around different ones. DONE
 
-- add some more tasks
