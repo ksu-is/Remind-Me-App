@@ -4,4 +4,4 @@
 4. We watched youtube videos to look for ideas  https://www.youtube.com/watch?v=tMM93Fi_BAs - DONE 
 5. We were attempting to have visuals of actual hands doing rock paper scissors, but we struggled with how to implement that. DONE
 6. Looked up some different code versions of rock paper scissors. Trying to work our way around different ones. DONE
-
+7. I reviewed the sample code to see if there was a way I could make it more concise - DONE
