@@ -1,9 +1,18 @@
-from random import randint
-player = input('rock (r), paper (p) or scissors (s)?') 
-print(player, 'vs')
+import random
 
-player = input('rock (r), paper (p) or scissors (s)?')
-print(player, 'vs')
+win_condition = ["Try again!", "You won!"]
+options = {"scissors":"rock","paper":"scissors","rock":"paper"}
+score = 0
 
-chosen = randint(1,3)
-print(chosen)	
+def game():
+    global score
+
+    valid = False
+    while valid is False:
+        do = input("Rock, paper or scissors: ")
+        valid = do in options
+
+    cpu = random.choice(list(options))
+    same = cpu == do
+    won = options[cpu] == do
+    score += int(won)
