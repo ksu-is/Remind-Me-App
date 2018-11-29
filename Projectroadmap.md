@@ -6,3 +6,6 @@
 6. Looked up some different code versions of rock paper scissors. Trying to work our way around different ones. DONE
 7. I reviewed the sample code to see if there was a way I could make it more concise - DONE
 8. Updated the test.py code - DONE
+9. We used what we learned from the modules ex: += int() DONE
+10. Made code for simplified wanting to avoid repetitive use of if this and then that DONE
+11. Submitted final code DONE
